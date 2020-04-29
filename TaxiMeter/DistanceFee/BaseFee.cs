@@ -11,7 +11,7 @@ namespace TaxiMeter
     {
         public double GetFee(int distance)
         {
-            return 6.0;
+            return distance > 0 ? 6 : 0;
         }
     }
 }

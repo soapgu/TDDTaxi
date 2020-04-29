@@ -40,6 +40,7 @@ namespace TaxiTest
 
 
         [Theory]
+        [InlineData(0, 0)]
         [InlineData(1, 6)]
         [InlineData(3, 6)]
         [InlineData(10, 6)]
