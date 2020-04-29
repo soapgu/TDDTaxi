@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxiTest", "TaxiTest\TaxiTest.csproj", "{50A575DD-C193-479E-A12F-83059BB8FC26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxiMeter", "TaxiMeter\TaxiMeter.csproj", "{37C2ECB2-2DAC-434D-81F2-3788A04CA3D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiConsole", "TaxiConsole\TaxiConsole.csproj", "{0C81FC3F-1EB7-4E12-A9F9-5F9B64BDADAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50A575DD-C193-479E-A12F-83059BB8FC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A575DD-C193-479E-A12F-83059BB8FC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A575DD-C193-479E-A12F-83059BB8FC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A575DD-C193-479E-A12F-83059BB8FC26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37C2ECB2-2DAC-434D-81F2-3788A04CA3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C2ECB2-2DAC-434D-81F2-3788A04CA3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C2ECB2-2DAC-434D-81F2-3788A04CA3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C2ECB2-2DAC-434D-81F2-3788A04CA3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C81FC3F-1EB7-4E12-A9F9-5F9B64BDADAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C81FC3F-1EB7-4E12-A9F9-5F9B64BDADAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C81FC3F-1EB7-4E12-A9F9-5F9B64BDADAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C81FC3F-1EB7-4E12-A9F9-5F9B64BDADAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07B46D7D-3974-4B1D-83B9-06F61E6A2D1A}
+	EndGlobalSection
+EndGlobal

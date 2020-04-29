@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TaxiConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "testData.txt"
+    }
+  }
+}
